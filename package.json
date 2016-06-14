@@ -1,0 +1,29 @@
+{
+  "name": "huntbot",
+  "version": "0.0.1",
+  "description": "ProductHunt bot for Discord",
+  "main": "bot.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r00t1000/huntbot.git"
+  },
+  "keywords": [
+    "bot",
+    "node",
+    "javascript"
+  ],
+  "author": "r00t1000 (Jacob)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r00t1000/huntbot/issues"
+  },
+  "homepage": "https://github.com/r00t1000/huntbot#readme",
+  "dependencies": {
+    "discord.io": "^1.12.0",
+    "lodash": "^4.13.1",
+    "producthunt": "^0.2.0"
+  }
+}

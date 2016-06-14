@@ -1,2 +1,2 @@
 # huntbot
-Unofficial ProductHunt Discord Bot
+ProductHunt bot for Discord
